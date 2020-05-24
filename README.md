@@ -11,5 +11,8 @@ Some used (based on [this report](https://www.gov.ca.gov/wp-content/uploads/2020
 ![Santa Clara Image](https://github.com/arjunsavel/covid-indicators/blob/master/img/santa_clara.jpg)
 
 
-## DISCLAIMER
-I am not an epidemiologist — nor am I a data scientist. I'm an astronomer in training; so, I try to keep as close to the data as possible, citing sources when available, and restricting my contributions to visualizations.
+## CAVEATS
+- I am not an epidemiologist — nor am I a data scientist. I'm an astronomer in training; so, I try to keep as close to the data as possible, citing sources when available, and restricting my contributions to visualizations.
+- Check out our [issues page](https://github.com/arjunsavel/covid-indicators/issues) for more caveats.
+
+
