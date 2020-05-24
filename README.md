@@ -8,6 +8,8 @@ Some used (based on [this report](https://www.gov.ca.gov/wp-content/uploads/2020
 - Containment capacity: At least 15 contact tracers per 100,000 residents; Ability to temporarily house at least 15% of county residents experiencing homelessness
 - Hospital capacity: County or regional capacity to accommodate a minimum surge of 35%; Hospital facilities must have a robust plan to protect hospital workforce
 
+![Santa Clara Image](https://github.com/arjunsavel/covid-indicators/blob/master/img/santa_clara.jpg)
+
 
 ## DISCLAIMER
 I am not an epidemiologist — nor am I a data scientist. I'm an astronomer in training; so, I try to keep as close to the data as possible, citing sources when available, and restricting my contributions to visualizations.
