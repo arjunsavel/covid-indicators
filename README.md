@@ -10,4 +10,4 @@ Some used (based on [this report](https://www.gov.ca.gov/wp-content/uploads/2020
 
 
 ## DISCLAIMER
-I am not an epidemioligst — nor am I a data scientist. I'm an astronomer in training; so, I try to keep as close to the data as possible, citing sources when available, and restricting my contributions to visualizations.
+I am not an epidemiologist — nor am I a data scientist. I'm an astronomer in training; so, I try to keep as close to the data as possible, citing sources when available, and restricting my contributions to visualizations.
